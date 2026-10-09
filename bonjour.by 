@@ -1,3 +1,0 @@
-print("Salut, je m'appelle Israël Mwamba et j'apprends à coder !")
-nom = input("C'est quoi ton nom ? ")
-print("Enchanté", nom, "!")
